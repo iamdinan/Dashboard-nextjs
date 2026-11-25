@@ -1,6 +1,6 @@
 # Next.js Dashboard
 
-A dashboard application built with the Next.js App Router, React, TypeScript, and Tailwind CSS. The project includes dashboard and invoice UI components, PostgreSQL data-access helpers, and a route for loading sample data.
+A dashboard application built with the Next.js App Router, React, TypeScript, and Tailwind CSS. The project includes dashboard and invoice UI components, PostgreSQL data-access helpers, and a route for loading sample data
 
 ## Requirements
 
